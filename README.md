@@ -1,2 +1,2 @@
 # hello-word
-This is a description
+This is a description very long and useless
